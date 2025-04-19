@@ -6,8 +6,8 @@ A brief description of what this project does and who it's for
 
 
 ## Screenshots
-<img src=""https://github.com/GChanna21/New-Repo/blob/main/Screenshot%20(5).png?raw=true ="">
 
+![Screenshot (5)](https://github.com/user-attachments/assets/5916a506-8b5d-4f17-b77c-b65d57e1f273)
 
 
 ## Installation
