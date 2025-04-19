@@ -6,7 +6,7 @@ A brief description of what this project does and who it's for
 
 
 ## Screenshots
-https://github.com/GChanna21/New-Repo/blob/main/Screenshots/Screenshot%20(5).png
+https://Screenshot (5).png
 
 
 
