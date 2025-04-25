@@ -214,5 +214,5 @@ I'm Channa Gouda
 If you have any feedback, please reach out to us at channachanna9880@gmail.com
 
 
-![Logo](https://github.com/GChanna21/New-Repo/blob/c039afcaf21254d60283866b1dbd88ad5b818c6d/Channa.png)
+![Logo](https://github.com/GChanna21/New-Repo/blob/f1b6cc872268d26fe5b50159e425e1ce9782cb3b/Channa%20(1).png)
 
