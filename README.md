@@ -144,6 +144,9 @@ Check file Bind address
 ```bash
 bind-address = 0.0.0.0
 ```
+
+![ss3_orangehrm](https://github.com/user-attachments/assets/3c8cc3f9-3cd5-49cc-9a01-368f2e2246d0)
+
 ## Now Everything is Set Ec2 present in Web Tier hasApache2 server acts as ReverseProxy and redirects requests to App Tier and App tier Process Requests and Intracts With Database
 
 ## 🚀 About Me
