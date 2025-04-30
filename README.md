@@ -1,7 +1,7 @@
 
 # Three Tier Application
 1. Linux is an operating system which UNIX-like and it’s free and open source for development and distribution. All of the Linux based operating systems provide Lamp packages.
-2. Apache is an HTTP Server which is used to process the HTTP request i.e. the webpages. It is one of the most popular web servers used by the developers around the globe. It is developed and maintain by the Apache Software Foundation.
+2. Apache is an HTTP Server which is used to process the HTTP request i.e. the webpages. It is one of the most popular web servers used by the developers around the globe. It is developed and maintain by the Apache Software Foundation along with we install Orangehrm app.
 3. MySQL The Role of the RDBMS (Relational Database Management System) in LAMP bundle is played by MySQL. It helps us to save and manage data efficiently.
 4. PHP is a server-side scripting language used to interact with web server. It embeds with the HTML code.
 # Architecture
@@ -16,8 +16,10 @@
 ## Installation
 
 Install my-project with Lap Stack Model
+## This is the Application, We are going to deploy 
 
 ## Documentation
+![images](https://github.com/user-attachments/assets/efccbd8a-91d7-4ce7-b4c6-dbc39759df53)
 
 📦 What We'll Do:
 Install Apache
