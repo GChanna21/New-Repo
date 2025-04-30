@@ -4,6 +4,11 @@
 2. Apache is an HTTP Server which is used to process the HTTP request i.e. the webpages. It is one of the most popular web servers used by the developers around the globe. It is developed and maintain by the Apache Software Foundation.
 3. MySQL The Role of the RDBMS (Relational Database Management System) in LAMP bundle is played by MySQL. It helps us to save and manage data efficiently.
 4. PHP is a server-side scripting language used to interact with web server. It embeds with the HTML code.
+# Architecture
+![design](https://github.com/user-attachments/assets/3ba47936-aa53-4411-9f19-61530642b250)
+
+## Create Three Ec2 Servers
+   
 
 ![Screenshot (5)](https://github.com/user-attachments/assets/5916a506-8b5d-4f17-b77c-b65d57e1f273)
 
